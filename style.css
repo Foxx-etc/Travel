@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  width:auto;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  font-family: monospace;
+  color: White;
+}
+
+img {
+  border-radius:20px
+}
+
+hr {
+  border: 0.1px solid grey;
+}
+
+.a {
+  margin-left:2px;
+  margin-right: 2px;
+  color:white;
+  font-size:31px;
+  background-color: dodgerblue;
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+}
+
+.b {
+  margin-left:2px;
+  margin-right: 2px;
+  font-size:31px;
+  background-color: dodgerblue;
+  font-family: monospace;
+  text-align: center;
+  color:white;
+  font-weight:bold;
+}
+
+.c {
+  margin-right: 2px;
+  margin-left:2px;
+  color:white;
+  font-size:31px;
+  background-color: dodgerblue;
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+}
+
+.z {
+  padding-left:10px;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius:30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius:30px;
+  font-size: 25px;
+  color: white;
+  background-color:rgba(0,150,200,0.5);
+}
+
+li {
+  font-family: 'Poetsen One', sans-serif;
+  margin-block-start: 15px;
+  font-size: 30px;
+  color: white;
+}
+
+nav {
+  padding-bottom: 10px;
+  border-radius:20px;
+  background-color: rgb(200,20,20);
+  font-weight: bold;
+  color: white;
+  font-family: Edu SA Hand;
+}
+
+div {
+  font-size: 25px;
+  color:white;
+  padding-bottom: 5px;
+  padding-top: 3px;
+  padding-left:10px;
+  background-color: rgb(170,20,20);
+}
+
+.d {
+  font-size: 15px;
+  padding-left:10px;
+}
